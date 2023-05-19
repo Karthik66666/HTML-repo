@@ -5,11 +5,12 @@ body{
 }
 .dEmo{
     background-color: antiquewhite;
-    margin-top: 150px;
-    margin-left: 300px;
+    margin-top: 300px;
+    margin-left: 400px;
     margin-right: 600px;
-    margin-bottom: 150px;
+   
     font-size: x-large;
-    text-align: center;
-    
+    padding:20px;
+   
+   
 }
