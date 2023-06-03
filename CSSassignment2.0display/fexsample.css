@@ -1,0 +1,29 @@
+h1{
+    background-color: violet;
+    color: aliceblue;
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+.first{
+    background-color: aqua;
+    text-align: justify;
+width:1000px;
+margin-left:10px;
+margin-right: 50px;
+/* border-radius: 30px; */
+}
+.second{
+    background-color: aqua;
+text-align: justify;
+width:1000px;
+margin-right: 50px;
+/* border-radius: 30px; */
+}
+.third{
+    background-color: aqua;
+text-align: justify;
+width:1000px;
+/* border-radius: 30px; */
+}

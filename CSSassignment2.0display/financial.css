@@ -1,0 +1,35 @@
+body{
+    background-image: url(finance\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.naV{
+float:right;
+margin-top: -50px;
+word-spacing: 50px;
+}
+*{
+    text-decoration: none;
+}
+a{
+    color: blue;
+}
+.sub{
+    /* text-align: center; */
+    margin-top: 200px;
+    color: blue;
+    margin-left: 50px;
+}
+.sub h4{
+    color:darkgreen;
+}
+h3{
+    color:darkgreen;
+}
+button{
+    width: 152px;
+    border-radius: 8px;
+    margin-left: 50px;
+    background-color: green;
+    color: gold;
+}

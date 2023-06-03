@@ -1,0 +1,41 @@
+body{
+    background-image: url(Edu.io.jpg);
+    background-size: cover;
+}
+.Nav{
+    word-spacing: 10px;
+    float:right;
+    margin-top: -50px;
+    padding-right: 30px;
+    color: white;
+    font-size: larger;
+}
+.mAin{
+    margin-top: 200px;
+}
+div h1{
+    margin-top: 0px;
+}
+*{
+    text-decoration: none;
+    color: white;
+}
+.mAin h3{
+    font-size: 80px;
+    color: aliceblue;
+}
+.mAin p{
+    font-size: 30px;
+color: aliceblue;
+}
+button{
+    color: black;
+    border-radius: 10px;
+    width: 50px;
+    background-color: aliceblue;
+    width: 100px;
+    height: 60px;
+    margin-left: 20px;
+    box-shadow: 10px;
+    border-color: aliceblue;
+}

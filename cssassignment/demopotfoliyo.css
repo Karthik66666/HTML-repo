@@ -1,0 +1,82 @@
+*{
+    text-decoration: none;
+    text-align: justify;
+}
+.hOme nav{
+float:right;
+margin-top: -35px;
+word-spacing: 10px;
+padding-right: 20px;
+position: sticky;
+}
+.box{
+    width: 25%;
+    display: inline-block;
+    padding-left: 30px;
+    
+}
+
+.img{
+    margin-left: 60px;
+
+}
+.hOme h3{
+    padding-left: 20px;
+}
+.hOme{
+    background-image: url(Reasons-Why-You-Should-Consider-Mobile-Developer-than-Web-Developer.jpg);
+background-repeat: no-repeat;
+height: 500px;
+background-size: cover;
+}
+
+.who{
+  margin-left: 500px;
+
+}
+
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+    background-color: aqua;
+    
+}
+footer{
+    background-color: yellow;
+   
+}
+table{
+    float:right;
+}
+.aBout img{
+float:right;
+width: 200px;
+height: 200px;
+margin-top: -70px;
+margin-right: -700px;
+}
+/* .iNtro{
+    width:300px;
+margin-left: 10px;
+text-align: justify;
+}
+.iNtro1{
+    width: 300px;
+    margin-left: 200px;
+    margin-top: -130px;
+    text-align: justify;
+}
+.iNtro1 h2{
+margin-bottom: 700px;
+} */
+.aBout{
+    width: 50%;
+}
+/* .iNtro2{
+    float:right;
+    text-align: justify;
+    width: 150px;
+    height: 70px;
+
+} */
