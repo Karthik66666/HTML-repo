@@ -1,0 +1,64 @@
+.fa-solid{
+    color: gold;
+}
+body{
+    background-image:linear-gradient(pink,red);
+    background-size: cover;
+    
+}
+#INfo{
+    background-color: white;
+    width:60%;
+    height:500px;
+    margin-left:530px;
+    margin-right: 200px;
+    margin-top: -500px;
+    position: relative;
+    z-index: 10;
+}
+.imMain{
+    position: relative;
+    z-index: 5;
+    border-radius:10px;
+    opacity:0.9;
+    margin-top: 150px;
+    margin-left:50px;
+}
+.pri{
+    display: flex;
+    margin-left: 350px;
+    margin-top:30px;
+}
+.pri p{
+    margin-left:25px;
+    margin-top:-0px;
+}
+.name{
+    margin-left:300px;
+}
+.type{
+    margin-left: 300px;
+}
+.colors{
+    margin-left: 150px;
+}
+.col{
+    margin-left: 150px;
+}
+.siz{
+    margin-left: 150px;
+}
+a{
+    margin-left: 370px;
+}
+.sub{
+        border-radius: 10px;
+        height: 50px;
+        width: 150px;
+        margin-bottom:25px;
+        background-color:palevioletred;
+        border-color: pink;
+        color: aliceblue;
+        margin-left: 340px;
+        margin-top: 50px;
+}
