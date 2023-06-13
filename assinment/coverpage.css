@@ -1,0 +1,15 @@
+body{
+    background-image: url( https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png);
+}
+*{
+    color: white;
+    font-family: Bree Serif;
+}
+.card{
+    background-color: #00000080;
+    width: 55%;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 550px;
+    border: 8px solid #48ee59;
+}

@@ -1,0 +1,32 @@
+p{
+    color: rgb(47, 106, 255);
+}
+h5{
+    color: rgb(253, 2, 2);
+}
+img{
+    width:100%;
+    height:80vh;
+}
+.carousel .carousel-indicators button{
+    height:15px;
+    width: 15px;
+    border-radius:50%;
+    background-color:white;
+}.boot{
+    color:rgb(0, 0, 0);
+}
+.Blog{
+    color: rgb(0, 0, 0);
+}
+.Templates{
+    color:rgb(0, 0, 0);
+}
+.para{
+    display: flex;
+}
+button{
+    color: aliceblue;
+    background-color: blue;
+    border-color: blue;
+}
