@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    function createForm() {
+      var selectedValue = document.getElementById("selectOption").value;
+      
+      if (selectedValue === "option1") {
+        document.getElementById("form").innerHTML = `
+          <label for="username">Username:</label>
+          <input type="text" id="username" name="username">
+          <br>
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="password">
+        `;
+      } else if (selectedValue === "option2") {
+        document.getElementById("form").innerHTML = `
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email">
+          <br>
+          <label for="phone">Phone:</label>
+          <input type="tel" id="phone" name="phone">
+        `;
+      }
+    }
+  </script>
+    <label for="selectOption">Select an option:</label>
+    <select id="selectOption" onchange="createForm()">
+      <option value="">--Select--</option>
+      <option value="option1">Option 1</option>
+      <option value="option2">Option 2</option>
+    </select>
+    
+    <div id="form"></div>
+</body>
+</html>
